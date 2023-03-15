@@ -65,7 +65,7 @@
 3. 使用 `Web API` 请填写 `OPENAI_ACCESS_TOKEN` 字段 [(获取 accessToken)](https://chat.openai.com/api/auth/session)
 4. 同时存在时以 `OpenAI API Key` 优先
 
-环境变量：
+境变量：
 
 全部参数变量请查看或[这里](#环境变量)
 
